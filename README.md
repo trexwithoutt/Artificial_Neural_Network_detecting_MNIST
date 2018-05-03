@@ -24,9 +24,9 @@
 
 ## Loss and Accuracy
 
-<img src="https://github.com/trexwithoutt/MNIST_ANN/blob/master/result.png" width="600">
+<img src="https://github.com/trexwithoutt/Artificial_Neural_Network_detecting_MNIST/blob/master/loss.png" width="600">
 
-<img src="https://github.com/trexwithoutt/MNIST_ANN/blob/master/result.png" width="600">
+<img src="https://github.com/trexwithoutt/Artificial_Neural_Network_detecting_MNIST/blob/master/accuracy.png" width="600">
 
 
 
@@ -66,11 +66,11 @@ Confusion matrix can be very helpfull to see your model drawbacks.
 
 I plot the confusion matrix of the validation results.
 
-<img src="https://github.com/trexwithoutt/MNIST_ANN/blob/master/result.png" width="600">
+<img src="https://github.com/trexwithoutt/Artificial_Neural_Network_detecting_MNIST/blob/master/cm.png" width="600">
 
 
 ## Bad Predictions
 
-<img src="https://github.com/trexwithoutt/MNIST_ANN/blob/master/result.png" width="600">
+<img src="https://github.com/trexwithoutt/Artificial_Neural_Network_detecting_MNIST/blob/master/wrong_ex.png" width="600">
 
 
